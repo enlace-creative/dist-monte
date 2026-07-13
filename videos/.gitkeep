@@ -1,0 +1,12 @@
+# Fuente recomendada: fotosusables/5 GANADO Y MONTE HD.mp4
+# Generar: npm run build:hero-video
+#
+# Hero inicio:
+#   hero-desktop.mp4 / hero-desktop.webm
+#   hero-mobile.mp4  / hero-mobile.webm
+#   hero-poster.webp / hero-poster.jpg
+#
+# Ancient Nutrition (inicio):
+#   ancient-nutrition-promo.mp4 / ancient-nutrition-promo.webm
+#
+# Los .mp4 están en .gitignore; en CI/deploy ejecutar build:hero-video o copiarlos manualmente.

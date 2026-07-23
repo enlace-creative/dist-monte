@@ -1,0 +1,1 @@
+import{i as n}from"./inicializar-video-hero.BAuvBd4n.js";function i(){const e=document.getElementById("video-hero-fauna");if(e instanceof HTMLVideoElement){const o=e.dataset.fuenteDesktop,t=e.dataset.fuenteMobile;o&&n(o,t??o,"video-hero-fauna")}}i();document.addEventListener("astro:page-load",i);

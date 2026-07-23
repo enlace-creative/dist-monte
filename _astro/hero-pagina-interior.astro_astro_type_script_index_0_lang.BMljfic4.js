@@ -1,0 +1,1 @@
+import{i as n}from"./inicializar-video-hero.BAuvBd4n.js";function t(){const e=document.getElementById("video-hero-interior");if(!(e instanceof HTMLVideoElement))return;const o=e.dataset.fuenteDesktop,i=e.dataset.fuenteMobile;o&&n(o,i??o,"video-hero-interior")}t();document.addEventListener("astro:page-load",t);

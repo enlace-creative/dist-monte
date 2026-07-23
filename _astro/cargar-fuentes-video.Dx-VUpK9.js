@@ -1,1 +1,0 @@
-function o(e){return e.replace(/\.mp4$/i,".webm")}function p(e,c,n){e.removeAttribute("src"),e.replaceChildren();const r=document.createElement("source");if(r.src=c,r.type="video/mp4",n?.soloMp4){e.append(r);return}const t=document.createElement("source");t.src=o(c),t.type="video/webm",e.append(t,r)}export{p as c};

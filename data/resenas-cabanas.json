@@ -1,234 +1,522 @@
 {
-	"actualizadoEn": "2026-06-26",
-	"fuente": "airbnb-graphql",
-	"cabanas": {
-		"cabana-1": {
-			"listingId": "24822568",
-			"url": "https://www.airbnb.co.cr/rooms/24822568",
-			"ratingPromedio": 4.71,
-			"totalResenas": 48,
-			"resenas": [
-				{
-					"texto": "Tranquilo, acogedor. Una zona preciosa, llena de mangos. Privado. Una estadía muy linda.",
-					"autor": "Maria Jose",
-					"fecha": "Hace 2 semanas",
-					"estrellas": 5
-				},
-				{
-					"texto": "lugar tranquilo",
-					"autor": "Natanael",
-					"fecha": "Hace 3 semanas",
-					"estrellas": 5
-				},
-				{
-					"texto": "Lugar muy tranquilo hermoso como las fotos",
-					"autor": "Elizabeth",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "El lugar limpio y cómodo",
-					"autor": "Amanda",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Un excelente lugar para alojarse. Desde la entrada hasta la cabaña todo es simplemente maravilloso. La naturaleza, el espacio, la piscina y las cabañas… ¡todo es increíble! Lo recomiendo muchísimo. Es un lugar que te llena de energía y te hace sentir muy cómodo desde el primer momento. Sin duda, una experiencia para repetir.",
-					"autor": "Selena",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				}
-			]
-		},
-		"cabana-2": {
-			"listingId": "34201547",
-			"url": "https://www.airbnb.co.cr/rooms/34201547",
-			"ratingPromedio": 4.92,
-			"totalResenas": 50,
-			"resenas": [
-				{
-					"texto": "Un lugar muy hermoso, extremadamente natural realmente se siente la paz es perfecto para relajarse y sentirse fuera de la ciudad, tiene lugares hermosos que visitar en el mismo sitio, espero volver pronto por más días vale absolutamente el viaje.",
-					"autor": "Eduardo",
-					"fecha": "Hace 1 semana",
-					"estrellas": 5
-				},
-				{
-					"texto": "Muy linda cabina y me encantó todos los árboles de mangos y la zona verde.",
-					"autor": "Lindsey",
-					"fecha": "Hace 2 semanas",
-					"estrellas": 5
-				},
-				{
-					"texto": "We will be returning. Thank you.",
-					"autor": "Charles",
-					"fecha": "Hace 3 semanas",
-					"estrellas": 5
-				},
-				{
-					"texto": "Precioso lugar, apenas para salir de la rutina un fin de semana, superó totalmente nuestras expectativas. Ojalá volver pronto!!",
-					"autor": "Fabiana",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Our stay is ab unforgettable one.",
-					"autor": "Charles",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				}
-			]
-		},
-		"cabana-4": {
-			"listingId": "1128399916291924651",
-			"url": "https://www.airbnb.co.cr/rooms/1128399916291924651",
-			"ratingPromedio": 4.73,
-			"totalResenas": 15,
-			"resenas": [
-				{
-					"texto": "El lugar es muy bonito. Perfecto para quienes quieren despejarse un rato la mente. Muchas gracias!",
-					"autor": "Fernanda",
-					"fecha": "Hace 2 semanas",
-					"estrellas": 5
-				},
-				{
-					"texto": "La estancia fue excelente. El lugar es muy lindo, tal cual como se muestra en las fotos, lo cual se agradece mucho porque cumple totalmente con las expectativas. El servicio y la atención fueron de primera, siempre atentos y dispuestos a ayudar en lo que fuera necesario, lo que hizo la experiencia aún más agradable. Sin duda, es un lugar que recomiendo completamente y al que volvería sin pensarlo. Fue una experiencia muy positiva en todos los sentidos.",
-					"autor": "Jostin",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Very nice and clean cottage in the middle of a mango farm. So many mangoes! Everything was great. Quiet, beautiful and peaceful surroundings.",
-					"autor": "Eric",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Un lugar increíble, vistadas hermosas, muy limpio, ordenado, estaba todo reluciente, la piscina era óptima. El personal de seguridad muy amable, fueron corteses, siempre atentos y anuentes. Sin duda un lugar para volver.",
-					"autor": "Rafael",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "La paz y tranquilidad que se siente en el lugar vale completamente la pena",
-					"autor": "Juan Diego",
-					"fecha": "febrero de 2026",
-					"estrellas": 5
-				}
-			]
-		},
-		"cabana-5": {
-			"listingId": "1128414399132809789",
-			"url": "https://www.airbnb.co.cr/rooms/1128414399132809789",
-			"ratingPromedio": 4.92,
-			"totalResenas": 25,
-			"resenas": [
-				{
-					"texto": "Vivi and Melissa had very good communication and helped me whenever I needed help. I would love to stay with them again in the future. ☺️",
-					"autor": "Naldo",
-					"fecha": "noviembre de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "Muy lindo lugar",
-					"autor": "Luis Humberto",
-					"fecha": "agosto de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "Muchas gracias, todo estuvo genial",
-					"autor": "Daniel",
-					"fecha": "agosto de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "Great stay! Peaceful and relaxing environment",
-					"autor": "Brandon",
-					"fecha": "agosto de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "Lugar perfecto para descansar y pasar un buen rato. La propiedad es muy bonita, las cabañas cómodas y la piscina excelente. Es importante que los visitantes consideren que es un lugar tranquilo para relajación, no es un lugar para hacer actividades con ruido.",
-					"autor": "Leonardo",
-					"fecha": "agosto de 2025",
-					"estrellas": 5
-				}
-			]
-		},
-		"cabana-6": {
-			"listingId": "1128423061437959326",
-			"url": "https://www.airbnb.co.cr/rooms/1128423061437959326",
-			"ratingPromedio": 4.77,
-			"totalResenas": 13,
-			"resenas": [
-				{
-					"texto": "Nos sentimos muy cómodos, era como estar en nuestra casa pero al rededor de muchísima naturaleza, un lugar para desconectar y pasar tiempo con quien más amo.’",
-					"autor": "Gabriela",
-					"fecha": "abril de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Un lugar precioso y tranquilo, vistas increíbles, el clima de la zona es muy agradable, las instalaciones en excelente estado y accesibles en un 100%; el anfitrión responde rápido, muy agradable y gentil. ¡Sin duda volveré!",
-					"autor": "Sergio",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "un lugar muy lindo con una vista hermosa, el amanecer es muy bello.",
-					"autor": "Carolina",
-					"fecha": "diciembre de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "muy bonito el lugar, ambiente tranquilo para relajarse",
-					"autor": "Luis Fernando",
-					"fecha": "diciembre de 2025",
-					"estrellas": 5
-				},
-				{
-					"texto": "Lo que más me gustó fue lo atentos que son los dueños. Esperamos volver en el futuro con nuestros hijos e amigos para disfrutar más de la piscina y las áreas de niños. Buen trabajo!",
-					"autor": "Rodolfo",
-					"fecha": "noviembre de 2025",
-					"estrellas": 5
-				}
-			]
-		},
-		"cabana-7": {
-			"listingId": "1128429513413045457",
-			"url": "https://www.airbnb.co.cr/rooms/1128429513413045457",
-			"ratingPromedio": 4.95,
-			"totalResenas": 20,
-			"resenas": [
-				{
-					"texto": "El lugar es mejor que en las fotos, es súper grande, tiene muchas zonas para caminar. Las piscina es tal como en las fotos. Tiene muchos árboles de mango y nos regalaron. Es un 20/10 definitivamente.",
-					"autor": "Tania",
-					"fecha": "Hace 1 semana",
-					"estrellas": 5
-				},
-				{
-					"texto": "Excelente hospedaje, lugar muy agradable y tranquilo.",
-					"autor": "Ethan",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Had a great stay! Keep in mind you’re in the forest so some critters are to be expected! Loved being submersed within the Mango Trees!!",
-					"autor": "Megan",
-					"fecha": "mayo de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "El complejo es increíble; se respira mucha paz y tranquilidad en el lugar. La cabaña es cómoda y lo único que, respetuosamente, sugiero considerar es el estado de algunos utensilios u elementos que cumplieron su ciclo de uso o ya están muy desgastados como la tetera de agua caliente, el dispensador de jabón y shampoo, o los cubiertos de cocina.",
-					"autor": "Juan",
-					"fecha": "abril de 2026",
-					"estrellas": 5
-				},
-				{
-					"texto": "Lugar muy tranquilo para descansar. Recomendado.",
-					"autor": "Johnny",
-					"fecha": "marzo de 2026",
-					"estrellas": 5
-				}
-			]
-		}
-	}
+  "actualizadoEn": "2026-07-23",
+  "fuente": "airbnb-graphql",
+  "cabanas": {
+    "cabana-1": {
+      "listingId": "24822568",
+      "url": "https://www.airbnb.co.cr/rooms/24822568",
+      "ratingPromedio": 4.71,
+      "totalResenas": 48,
+      "resenas": [
+        {
+          "texto": "Tranquilo, acogedor. Una zona preciosa, llena de mangos. Privado. Una estadía muy linda.",
+          "autor": "Maria Jose",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "lugar tranquilo",
+          "autor": "Natanael",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lugar muy tranquilo hermoso como las fotos",
+          "autor": "Elizabeth",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "El lugar limpio y cómodo",
+          "autor": "Amanda",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un excelente lugar para alojarse. Desde la entrada hasta la cabaña todo es simplemente maravilloso. La naturaleza, el espacio, la piscina y las cabañas… ¡todo es increíble! Lo recomiendo muchísimo. Es un lugar que te llena de energía y te hace sentir muy cómodo desde el primer momento. Sin duda, una experiencia para repetir.",
+          "autor": "Selena",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "me encantó el lugar, muy tranquilo, rodeado de naturaleza y mucha privacidad",
+          "autor": "Mauricio",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy bonito lugar, cerca de San jose y tiene una tranquilidad y vistas increíbles.",
+          "autor": "Brad Jariel",
+          "fecha": "enero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelenteee, siempre mucho para hacer y tranquilo 😊",
+          "autor": "Franco",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Perfecto! 🙂",
+          "autor": "Franco",
+          "fecha": "septiembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Todo perfecto, lugar muy bonito y privado",
+          "autor": "Valeria",
+          "fecha": "agosto de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelenteee! 🙂🙂",
+          "autor": "Franco",
+          "fecha": "abril de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Beautiful place.",
+          "autor": "Elizandro",
+          "fecha": "marzo de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Perfecto todo",
+          "autor": "J Scott",
+          "fecha": "febrero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Wirklich alles super",
+          "autor": "Flint",
+          "fecha": "diciembre de 2024",
+          "estrellas": 5
+        },
+        {
+          "texto": "Hermoso lugar para desconectarse",
+          "autor": "Gerardo",
+          "fecha": "marzo de 2024",
+          "estrellas": 5
+        }
+      ]
+    },
+    "cabana-2": {
+      "listingId": "34201547",
+      "url": "https://www.airbnb.co.cr/rooms/34201547",
+      "ratingPromedio": null,
+      "totalResenas": 51,
+      "resenas": [
+        {
+          "texto": "Best place to stay near San Jose",
+          "autor": "Elijah",
+          "fecha": "Hace 3 semanas",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar muy hermoso, extremadamente natural realmente se siente la paz es perfecto para relajarse y sentirse fuera de la ciudad, tiene lugares hermosos que visitar en el mismo sitio, espero volver pronto por más días vale absolutamente el viaje.",
+          "autor": "Eduardo",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy linda cabina y me encantó todos los árboles de mangos y la zona verde.",
+          "autor": "Lindsey",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "We will be returning. Thank you.",
+          "autor": "Charles",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Precioso lugar, apenas para salir de la rutina un fin de semana, superó totalmente nuestras expectativas. Ojalá volver pronto!!",
+          "autor": "Fabiana",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Our stay is ab unforgettable one.",
+          "autor": "Charles",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente lugar e increíbles amenidades",
+          "autor": "Laurens",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "This place was so cute! It's in a very quiet, peaceful neighborhood outside San Jose. It was a little tricky for us to find the unit at night, but otherwise, a great stay! We enjoyed having our coffee on the patio and enjoying the peace and quiet.",
+          "autor": "Erica",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Si buscas paz, rodeado de naturaleza en el occidente del GAM, esta es una excelente opción.",
+          "autor": "Fran",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Demasiado lindo, super limpio, piscina hermosa y rodeado de paz, las fotos no le hacen justicia de lo hermoso que es!☀️🌳💚Espero volver!!!",
+          "autor": "Yariela",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy ordenado y limpio Muy bello lugar",
+          "autor": "Ronald",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Me gusto el alojamiento, es un lugar muy tranquilo, es un lugar un privado, fácil de llegar y el personal es muy amable y siempre a la disposición de los huéspedes.",
+          "autor": "Mariana",
+          "fecha": "enero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Mis suegros pasaron una estadía increíble en este lugar. Regresaron muy contentos describiendo que el lugar superaba sus expectativas. Espero poder conocerlo en algún momento.",
+          "autor": "Nathy",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "el lugar precioso igual que en las fotografias lo unicamente que la direccion que indican por aca no es la del lugar pero el anfitrion muy amablemente nos brindo la direccion y llegamos super bien, lo recomiendo y sin duda volveria a visitarlos",
+          "autor": "Hellen",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy bonito todo y mucha privacidad, excelente lugar para relajarse",
+          "autor": "Marco",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        }
+      ]
+    },
+    "cabana-4": {
+      "listingId": "1128399916291924651",
+      "url": "https://www.airbnb.co.cr/rooms/1128399916291924651",
+      "ratingPromedio": 4.69,
+      "totalResenas": 16,
+      "resenas": [
+        {
+          "texto": "El lugar es muy bonito. Perfecto para quienes quieren despejarse un rato la mente. Muchas gracias!",
+          "autor": "Fernanda",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "La estancia fue excelente. El lugar es muy lindo, tal cual como se muestra en las fotos, lo cual se agradece mucho porque cumple totalmente con las expectativas. El servicio y la atención fueron de primera, siempre atentos y dispuestos a ayudar en lo que fuera necesario, lo que hizo la experiencia aún más agradable. Sin duda, es un lugar que recomiendo completamente y al que volvería sin pensarlo. Fue una experiencia muy positiva en todos los sentidos.",
+          "autor": "Jostin",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Very nice and clean cottage in the middle of a mango farm. So many mangoes! Everything was great. Quiet, beautiful and peaceful surroundings.",
+          "autor": "Eric",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar increíble, vistadas hermosas, muy limpio, ordenado, estaba todo reluciente, la piscina era óptima. El personal de seguridad muy amable, fueron corteses, siempre atentos y anuentes. Sin duda un lugar para volver.",
+          "autor": "Rafael",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "La paz y tranquilidad que se siente en el lugar vale completamente la pena",
+          "autor": "Juan Diego",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lovely place! ...we had a great time!",
+          "autor": "Luis",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Site calme et magnifique. Chalet propre et bien équipé. Nous avons adoré l’endroit et la piscine.",
+          "autor": "Audree Et Gabriel",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "La propiedad es muy bonita, llena de naturaleza y se respira abundante paz. La cabaña cuenta con todas las comodidades para una estancia placentera. La piscina es grande y tiene una vista espectacular. Esperamos volver muy pronto!",
+          "autor": "Daniel",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente lugar para buscar tranquilidad y paz",
+          "autor": "Geraldin",
+          "fecha": "junio de 2025",
+          "estrellas": 5
+        }
+      ]
+    },
+    "cabana-5": {
+      "listingId": "1128414399132809789",
+      "url": "https://www.airbnb.co.cr/rooms/1128414399132809789",
+      "ratingPromedio": 4.92,
+      "totalResenas": 25,
+      "resenas": [
+        {
+          "texto": "Vivi and Melissa had very good communication and helped me whenever I needed help. I would love to stay with them again in the future. ☺️",
+          "autor": "Naldo",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy lindo lugar",
+          "autor": "Luis Humberto",
+          "fecha": "agosto de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muchas gracias, todo estuvo genial",
+          "autor": "Daniel",
+          "fecha": "agosto de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Great stay! Peaceful and relaxing environment",
+          "autor": "Brandon",
+          "fecha": "agosto de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lugar perfecto para descansar y pasar un buen rato. La propiedad es muy bonita, las cabañas cómodas y la piscina excelente. Es importante que los visitantes consideren que es un lugar tranquilo para relajación, no es un lugar para hacer actividades con ruido.",
+          "autor": "Leonardo",
+          "fecha": "agosto de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "El lugar es precioso. Se siente mucha paz y todo está súper bonito. Les recomendaría que tengan cositas básicas como sal, café, aceite para facilitar la experiencia de las personas, pero en general, todo es excelente!",
+          "autor": "Montserrath",
+          "fecha": "abril de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente lugar para descansar de unas vacaciones tranquilas en contacto con la naturaleza y privacidad. Así como de una excelente piscina y un mirador espectacular! 👌, recomendado",
+          "autor": "Luis Alfredo",
+          "fecha": "abril de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Es un lugar lleno de paz y naturaleza, muy recomendable para descansar.",
+          "autor": "Yamileth",
+          "fecha": "abril de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Idéalement situé à Santa Eulalia, en dehors du tumulte de la ville. Endroit très calme malgré la proximité de la ville. Situé sur toute une montagne privée. Les lodges sont idéalement situés, très bien équipés et assez distant les uns des autres pour préserver votre intimité. La piscine est incroyable, de taille olympique ! avec une superbe vue sur la ville. Très belle randonnée (gratuite ! ) à faire dans la montagne environnante. Personnel de l'hôtel, très sympathique et de bons conseils surtout le monsieur qui s'occupe de l'entretien de la piscine, merci à lui pour les bons conseils et sa sympathie. Seul bémol, le lien Google maps sur l'annonce est faux, privilégiez peut-être Waze",
+          "autor": "Pierre",
+          "fecha": "marzo de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Es un lugar muy bonito, hay muchas cosas que ver y hacer. Definitivamente vale la pena visitarlo.",
+          "autor": "Leonardo",
+          "fecha": "marzo de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente lugar, y muy amable la anfitrión.",
+          "autor": "Kenneth",
+          "fecha": "febrero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "El lugar es muy bonito, tranquilo y agradable. La atención excelente.",
+          "autor": "Andrea",
+          "fecha": "febrero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "A very handy place for me to stay for a night after landing in Costa Rica, very close to a nearby retreat that began the following day. Clean and peaceful!",
+          "autor": "Andy",
+          "fecha": "enero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "La ubicación de la aplicación esta mala, no es la real. Es un lugar increíble para descansar y disfrutar de la naturaleza que rodea la cabaña con la posibilidad de disfrutar de una piscina bellísima y con la alternativa de disfrutar de un hermoso atardecer en el Cerro de la propiedad. Recomendado",
+          "autor": "Luis Alfredo",
+          "fecha": "enero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Me encanta La Paz que tiene el lugar y la atención",
+          "autor": "Daniela",
+          "fecha": "enero de 2025",
+          "estrellas": 5
+        }
+      ]
+    },
+    "cabana-6": {
+      "listingId": "1128423061437959326",
+      "url": "https://www.airbnb.co.cr/rooms/1128423061437959326",
+      "ratingPromedio": 4.77,
+      "totalResenas": 13,
+      "resenas": [
+        {
+          "texto": "Nos sentimos muy cómodos, era como estar en nuestra casa pero al rededor de muchísima naturaleza, un lugar para desconectar y pasar tiempo con quien más amo.’",
+          "autor": "Gabriela",
+          "fecha": "abril de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar precioso y tranquilo, vistas increíbles, el clima de la zona es muy agradable, las instalaciones en excelente estado y accesibles en un 100%; el anfitrión responde rápido, muy agradable y gentil. ¡Sin duda volveré!",
+          "autor": "Sergio",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "un lugar muy lindo con una vista hermosa, el amanecer es muy bello.",
+          "autor": "Carolina",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "muy bonito el lugar, ambiente tranquilo para relajarse",
+          "autor": "Luis Fernando",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lo que más me gustó fue lo atentos que son los dueños. Esperamos volver en el futuro con nuestros hijos e amigos para disfrutar más de la piscina y las áreas de niños. Buen trabajo!",
+          "autor": "Rodolfo",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "A nice place in the countryside with a pool.",
+          "autor": "Jake",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Pleasant place to stay.",
+          "autor": "Jake",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lugar simplemente inmejorable!! Rodeado de naturaleza muy tranquilo! De todo para hacer de la estadía placentera.",
+          "autor": "Kenneth",
+          "fecha": "enero de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente lugar, con gran campo y un escenario muy bonito. Volvería muchas veces más!",
+          "autor": "Fabian",
+          "fecha": "abril de 2024",
+          "estrellas": 5
+        }
+      ]
+    },
+    "cabana-7": {
+      "listingId": "1128429513413045457",
+      "url": "https://www.airbnb.co.cr/rooms/1128429513413045457",
+      "ratingPromedio": 4.95,
+      "totalResenas": 20,
+      "resenas": [
+        {
+          "texto": "El lugar es mejor que en las fotos, es súper grande, tiene muchas zonas para caminar. Las piscina es tal como en las fotos. Tiene muchos árboles de mango y nos regalaron. Es un 20/10 definitivamente.",
+          "autor": "Tania",
+          "fecha": "junio de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Excelente hospedaje, lugar muy agradable y tranquilo.",
+          "autor": "Ethan",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Had a great stay! Keep in mind you’re in the forest so some critters are to be expected! Loved being submersed within the Mango Trees!!",
+          "autor": "Megan",
+          "fecha": "mayo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "El complejo es increíble; se respira mucha paz y tranquilidad en el lugar. La cabaña es cómoda y lo único que, respetuosamente, sugiero considerar es el estado de algunos utensilios u elementos que cumplieron su ciclo de uso o ya están muy desgastados como la tetera de agua caliente, el dispensador de jabón y shampoo, o los cubiertos de cocina.",
+          "autor": "Juan",
+          "fecha": "abril de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lugar muy tranquilo para descansar. Recomendado.",
+          "autor": "Johnny",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Demasiado lindo y tranquilo el lugar, la cabaña impecable , el trato genial! Sin duda volvería",
+          "autor": "Lucrecia",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar muy bonito , tranquilo, aseado y ordenado, perfecto para desconectar de la rutina y la ciudad !!",
+          "autor": "Christopher",
+          "fecha": "marzo de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar para relajarse y disfrutar las vistas",
+          "autor": "Leonela",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Un lugar excelente y hermoso, muy acogedor y tranquilo, además de estar sumamente limpio, tanto la cabaña como las instalaciones en general. El personal es súper atento y amable. 10/10",
+          "autor": "Sebastián",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Great place to visit and near the airport.",
+          "autor": "Jake",
+          "fecha": "febrero de 2026",
+          "estrellas": 5
+        },
+        {
+          "texto": "Monte is an absolutely beautiful place to stay, surrounded by lush nature that makes it the perfect escape to relax and unwind. From the moment you arrive, you feel peace and privacy, with the added comfort of 24-hour security, which makes the experience even better. The pool is amazing, ideal for enjoying the natural surroundings, and the entire place feels very private and cozy, perfect for resting or a quiet getaway. If you’re looking for tranquility, comfort, and a strong connection with nature, Monte is an excellent choice",
+          "autor": "Brandon",
+          "fecha": "diciembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Muy acogedor y tranquilo",
+          "autor": "Kevin",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Demasiado bonito tanto la cabaña como todo el lugar en general",
+          "autor": "Kendall",
+          "fecha": "noviembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "Lindas cabañas y la piscina es grande y bonita",
+          "autor": "Rachel",
+          "fecha": "septiembre de 2025",
+          "estrellas": 5
+        },
+        {
+          "texto": "El lugar está bonito para alguien que quiere verdadera paz y tranquilidad.",
+          "autor": "Federico",
+          "fecha": "abril de 2025",
+          "estrellas": 5
+        }
+      ]
+    }
+  }
 }
